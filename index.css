@@ -1,0 +1,11 @@
+nav table {
+	background-color: white;
+	font-size: 24px;
+	cursor: pointer;
+}
+
+.submenu {
+	background-color: black;
+	color: white;
+}
+
